@@ -1,4 +1,4 @@
----
+erickrucek@gmail.com---rucellmai
 title: What is Google Summer of Code?
 section: Introduction
 order: 0
